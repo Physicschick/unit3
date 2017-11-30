@@ -1,3 +1,6 @@
+body{
+  text-align: center;
+}
 h1{
   font-family:Helvetica;
   font-size:70px;
@@ -9,9 +12,7 @@ h1{
   font-size:18px;
   color:white;
 }
-h1,
-.link{
+#top{
   background-image:
-  url("
-    ");
+  url("https://github.com/Physicschick/unit3/blob/master/resources/images/the-flatiron-building.png");
 }
