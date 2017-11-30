@@ -13,6 +13,7 @@ h1{
   color:white;
 }
 #top{
+  background-color:black;
   background-image:
   url("./images/the-flatiron-building.png");
 }
