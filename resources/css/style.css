@@ -9,8 +9,7 @@ h1{
   font-size:18px;
   color:white;
 }
-h1,
-.link{
+.top{
   background-image:
   url("./resources/images/the-flatiron-building.png");
 }
